@@ -1,0 +1,1 @@
+- Question 1: This program asks the user to enter a student name and three subject marks, validating that all inputs are numeric. It calculates the total and average marks and displays whether the student PASSED or FAILED based on an average of 50 or above, along with a timestamp.
