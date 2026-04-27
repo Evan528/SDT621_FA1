@@ -1,1 +1,6 @@
 - Question 1: This program asks the user to enter a student name and three subject marks, validating that all inputs are numeric. It calculates the total and average marks and displays whether the student PASSED or FAILED based on an average of 50 or above, along with a timestamp.
+- Question 2: This program simulates a basic ATM withdrawal. The user enters their name, account balance, and withdrawal amount. The program calculates and displays the updated balance along with the transaction time.
+- Question 3: Program allows the user to add and remove programming languages from a list. It prevents empty and duplicate entries from being added and displays the date and time whenever an action is performed.
+  Section B
+- Question 1: This Program uses three classes — Resident, ServiceRequest, and UtilitiesManager — to manage municipal service requests. Users capture resident and request details, view a queue with urgency scores, and interactively process requests. A final summary highlights the highest urgency request.
+- Question 2: This Program validates and generates digital citizen profiles. The CitizenProfile class calculates the citizen's age from their ID number and validates that it is exactly 13 numeric digits. The Generate Profile button produces a full formatted summary with a processing timestamp.
